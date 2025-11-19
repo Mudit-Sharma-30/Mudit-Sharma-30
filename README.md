@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Mudit-Sharma-30/Mudit-Sharma-30/assets/99650506/3af9e7b0-88e4-48b5-9a9b-4835794f74e6&resize=400x300">
 
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working as PhD scholar at **IIT ROPAR**
 
-- 🌱 I’m currently learning **NLP and LLM(Large Language Model)**
+- 🌱 I’m currently learning **Multi Armed Bandits , Lipschitz Optimization**
 
 - 💬 Ask me about **C++ , Data Structure , Machine learning , Deep Learning**
 
